@@ -2,7 +2,7 @@
 
 > Upload image to AWS S3 with Aflred
 
-![](./icon.png)
+![](./image/example.png)
 
 *Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
