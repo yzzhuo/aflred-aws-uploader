@@ -1,7 +1,8 @@
 # alfred-upload-aws
 
 > Upload image to AWS S3 with Aflred
-![image-20200229210712104](https://image-album-june.s3.amazonaws.com/1582981750857_image-20200229210712104.png)
+
+![](./icon.png)
 
 *Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
