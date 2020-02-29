@@ -1,5 +1,4 @@
-# alfred-upload-aws
-
+# alfred-aws-uploader
 > Upload image to AWS S3 with Aflred
 
 ![](./image/example.png)
